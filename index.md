@@ -35,4 +35,4 @@
   - Demo names are formatted like this `auto-YYYYMMDD-hhmm-map.dem`
   - Newest demo should be at the bottom of the list
   
- _[WARNING]_ - Demos will be deleted after 14 days
+**[WARNING] - Demos will be deleted after 14 days
