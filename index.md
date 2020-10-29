@@ -1,8 +1,10 @@
+[CONNECT](https://www.google.com)
+
 # 10-Man Server Guide
 
 - [How to connect](#how-to-connect)
   * [Through console](#through-console)
-  + [Add to server browser favorites](#add-to-server-browser-favorites)
+  * [Add to server browser favorites](#add-to-server-browser-favorites)
 
 ## How to connect
 
