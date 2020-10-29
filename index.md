@@ -1,4 +1,4 @@
-[CONNECT](https://www.google.com)
+# [CONNECT](https://www.google.com)
 
 # 10-Man Server Guide
 
