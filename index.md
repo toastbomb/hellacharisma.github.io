@@ -1,5 +1,5 @@
-# [CLICK TO CONNECT](steam://connect/mlg.gamergod.net:28748/mlg)
-[steam://connect/mlg.gamergod.net:28748/mlg][website]
+# [connect]
+[connect]: steam://connect/mlg.gamergod.net:28748/mlg
 
 # 10-Man Server Guide
  
