@@ -1,6 +1,6 @@
 # 10-Man Server Guide
 
-- [Heading](#heading)
+- [How to connect](#heading)
 
 ## How to connect
 
