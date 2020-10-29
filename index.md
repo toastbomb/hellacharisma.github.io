@@ -1,6 +1,8 @@
-## 10-Man Server Guide
+# 10-Man Server Guide
 
-### How to connect
+- [Heading](#heading)
+
+## How to connect
 
 - Open CSGO
 - Open the console (press "~")
