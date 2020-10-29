@@ -14,6 +14,8 @@
 - Go to the [level list] 
 - Go to the page for the level you want
 - Use the ending string of digits in the link as the level name
+- Example: For `https://steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do `rcon changelevel 125689526`
+
 Example:
 ```
 This is the link for Downtown https://steamcommunity.com/sharedfiles/filedetails/?id=125689526
