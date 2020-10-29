@@ -3,7 +3,7 @@
 ### [level list]
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
-## How do I setup a 10 man?
+## How do I set up a 10 man?
 - Type `!setup` in chat
 
 ## How do I change levels?
