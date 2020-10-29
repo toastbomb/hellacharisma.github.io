@@ -8,7 +8,7 @@
 
 ## How do I change levels?
 - `rcon_password mlg` in console
-- `rcon changelvel <name of level you want>` in console
+- `rcon changelevel name-of-level-you-want` in console
 
 ## I don't know the name of the level
 - Go to the [level list] 
