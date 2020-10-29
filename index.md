@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## 10-Man Server Guide
 
-You can use the [editor on GitHub](https://github.com/hellacharisma/hellacharisma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### How to connect
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+- Open CSGO
+- Open the console (press "~")
+- Paste "connect mlg.gamergod.net:28748; password mlg" into the console text box
+- Press "enter"
 
 Markdown asdf is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
