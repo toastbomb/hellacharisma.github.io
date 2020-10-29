@@ -28,6 +28,8 @@ Example: for `steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do
 - Click `tckolpin@gmail.com` and you should go to the server dashboard
 - Click `Start`
 
+**Please remember to stop the server when you are done. If you do forget the server will auto shutdown after 30 min of being empty**
+
 ## How do I download demos?
 - Follow [How do I startup the server?](#how-do-i-startup-the-server?) to get an account with server access
 - At the server dashboard click `Edit`
