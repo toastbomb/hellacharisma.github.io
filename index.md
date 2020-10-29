@@ -3,6 +3,9 @@
 ### [level list]
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
+## How do I setup a 10 man?
+-Type "!setup" in chat
+
 ## How do I change levels?
 -"rcon_password mlg" in console
 -"rcon changelvel <name of level you want>" in console
@@ -16,6 +19,3 @@ This is the link for Downtown https://steamcommunity.com/sharedfiles/filedetails
 To change to Downtown I'd take "125689526" from the end of the link.
 Enter "rcon changelevel 125689526" into the console while connect to the server.
 ```
-
-## How do I setup a 10 man?
--Type "!setup" in chat
