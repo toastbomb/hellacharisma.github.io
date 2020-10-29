@@ -1,5 +1,5 @@
-# [Click to connect]
-[Click to connect]: steam://connect/mlg.gamergod.net:28748/mlg
+# [Click to connect to server]
+[Click to connect to server]: steam://connect/mlg.gamergod.net:28748/mlg
 ### [level list]
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
@@ -16,8 +16,12 @@
 - Use the ending string of digits in the link as the level name
 - Example: For `https://steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do `rcon changelevel 125689526`
 
-Example:
-```
-This is the link for Downtown https://steamcommunity.com/sharedfiles/filedetails/?id=125689526
-To change to Downtown you'd take "125689526" from the end of the link like this... "rcon changelevel 125689526"
-```
+## Can I donate?
+- I don't mind paying for it all myself (costs about $0.50 per 10-man) but if you'd like to chip in you can send money to `@Tucker-Kolpin` on Venmo
+
+## How do I startup the server?
+- Create an account at [DatHost](https://dathost.net/)
+- Give me (TOAST BOMB) the email address you used for the account so I can give it access
+- Once you have access you should be able to click the profile icon in the top right and see `tckolpin@gmail.com` as an option in the resulting dropdown
+- Click `tckolpin@gmail.com` and you should go to the server dashboard
+- Click `Start`
