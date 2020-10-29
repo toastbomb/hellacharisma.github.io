@@ -1,7 +1,7 @@
-# [CLICK TO CONNECT](https://steam://connect/mlg.gamergod.net:28748/mlg)
+# [CLICK TO CONNECT](steam://connect/mlg.gamergod.net:28748/mlg)
 
 # 10-Man Server Guide
-
+ 
 - [How to connect](#how-to-connect)
   * [Through console](#through-console)
   * [Add to server browser favorites](#add-to-server-browser-favorites)
