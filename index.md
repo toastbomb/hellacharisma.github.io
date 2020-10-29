@@ -5,6 +5,8 @@
 <steam://connect/mlg.gamergod.net:28748/mlg>
 <a href="steam://connect/mlg.gamergod.net:28748/mlg">Click to connect</a>
 
+[steam://connect/rust.topkek.nu:28016!](steam://connect/rust.topkek.nu:28016)
+
 # 10-Man Server Guide
  
 - [How to connect](#how-to-connect)
@@ -12,6 +14,11 @@
   * [Add to server browser favorites](#add-to-server-browser-favorites)
 
 ## How to connect
+
+### Through browser
+
+- Paste "steam://connect/mlg.gamergod.net:28748/mlg" in your browser
+- Press "enter"
 
 ### Through console
 
