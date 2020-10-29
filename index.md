@@ -2,7 +2,7 @@
 [connect]: steam://connect/mlg.gamergod.net:28748/mlg
 
 
-
+<steam://connect/mlg.gamergod.net:28748/mlg>
 <a href="steam://connect/mlg.gamergod.net:28748/mlg">Click to connect</a>
 
 # 10-Man Server Guide
