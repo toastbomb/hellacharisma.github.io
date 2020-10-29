@@ -4,15 +4,15 @@
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
 ## How do I setup a 10 man?
--Type "!setup" in chat
+- Type "!setup" in chat
 
 ## How do I change levels?
--"rcon_password mlg" in console
--"rcon changelvel <name of level you want>" in console
+- "rcon_password mlg" in console
+- "rcon changelvel <name of level you want>" in console
 
 ## I don't know the name of the level
--Go to the [level list] and go to the page for the level you want
--Use the ending string of digits in the link as the level name
+- Go to the [level list] and go to the page for the level you want
+- Use the ending string of digits in the link as the level name
 Example:
 ```
 This is the link for Downtown https://steamcommunity.com/sharedfiles/filedetails/?id=125689526
