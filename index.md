@@ -14,7 +14,8 @@
 - Go to the [level list] 
 - Go to the page for the level you want
 - Use the ending string of digits in the link as the level name
-- Example: For `https://steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do `rcon changelevel 125689526`
+
+Example: for `steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do `rcon changelevel 125689526`
 
 ## Can I donate?
 - I don't mind paying for it all myself (costs about $0.50 per 10-man) but if you'd like to chip in you can send money to `@Tucker-Kolpin` on Venmo
