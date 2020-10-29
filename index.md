@@ -15,7 +15,7 @@
 - Go to the page for the level you want
 - Use the ending string of digits in the link as the level name
 
-Example: for `steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do `rcon changelevel 125689526`
+  Example: for `steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do `rcon changelevel 125689526`
 
 ## Can I donate?
 - I don't mind paying for it all myself (costs about $0.50 per 10-man) but if you'd like to chip in you can send money to `@Tucker-Kolpin` on Venmo
@@ -26,3 +26,11 @@ Example: for `steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do
 - Once you have access you should be able to click the profile icon in the top right and see `tckolpin@gmail.com` as an option in the resulting dropdown
 - Click `tckolpin@gmail.com` and you should go to the server dashboard
 - Click `Start`
+
+## How do I download demos?
+- Follow [How do I startup the server?](#how-do-i-startup-the-server?) to get an account with server access
+- At the server dashboard click `Edit`
+- Go to `File Manager` 
+- Demo files will be in the root csgo folder, they have crazy looking names
+  - Demo names are formatted like this `auto-YYYYMMDD-hhmm-map.dem`
+  - Newest demo should be at the bottom of the list
