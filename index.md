@@ -1,6 +1,6 @@
 # [connect]
 [connect]: steam://connect/mlg.gamergod.net:28748/mlg
-[website]: https://stackoverflow.com/questions/41345160/display-link-url-in-markdown
+[website]: steam://connect/mlg.gamergod.net:28748/mlg
 
 [website]
 
