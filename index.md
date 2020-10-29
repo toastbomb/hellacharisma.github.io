@@ -1,6 +1,8 @@
 # 10-Man Server Guide
 
 - [How to connect](#how-to-connect)
+* [How to connect](#how-to-connect)
++ [How to connect](#how-to-connect)
 
 ## How to connect
 
