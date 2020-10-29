@@ -1,6 +1,6 @@
 # [Click to connect to server]
 [Click to connect to server]: steam://connect/mlg.gamergod.net:28748/mlg
-info: connect mlg.gamergod.net:28748; password mlg
+<sub><sup>info: connect mlg.gamergod.net:28748; password mlg<\sup><\sub>
 ### [level list]
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
