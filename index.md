@@ -3,7 +3,7 @@
 
 
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="steam://connect/mlg.gamergod.net:28748/mlg">Click to connect</a>
 
 # 10-Man Server Guide
  
