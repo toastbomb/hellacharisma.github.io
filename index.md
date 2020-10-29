@@ -1,12 +1,5 @@
-# [connect]
-[connect]: steam://connect/mlg.gamergod.net:28748/mlg
-
-steam://connect/mlg.gamergod.net:28748/mlg
-
-<steam://connect/mlg.gamergod.net:28748/mlg>
-<a href="steam://connect/mlg.gamergod.net:28748/mlg">Click to connect</a>
-
-[steam://connect/rust.topkek.nu:28016!](steam://connect/rust.topkek.nu:28016)
+# [Click to connect]
+[Click to connect]: steam://connect/mlg.gamergod.net:28748/mlg
 
 # 10-Man Server Guide
  
