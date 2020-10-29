@@ -34,3 +34,5 @@
 - Demo files will be in the root csgo folder, they have crazy looking names
   - Demo names are formatted like this `auto-YYYYMMDD-hhmm-map.dem`
   - Newest demo should be at the bottom of the list
+  
+ [WARNING] - Demos will be deleted after 14 days
