@@ -1,15 +1,19 @@
 # 10-Man Server Guide
 
 - [How to connect](#how-to-connect)
-* [How to connect](#how-to-connect)
-+ [How to connect](#how-to-connect)
+  * [Through console](#through-console)
+  + [Add to server browser favorites](#add-to-server-browser-favorites)
 
 ## How to connect
+
+### Through console
 
 - Open CSGO
 - Open the console (press "~")
 - Paste "connect mlg.gamergod.net:28748; password mlg" into the console text box
 - Press "enter"
+
+### Add to server browser favorites
 
 Markdown asdf is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
