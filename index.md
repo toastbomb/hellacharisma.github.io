@@ -17,6 +17,5 @@
 Example:
 ```
 This is the link for Downtown https://steamcommunity.com/sharedfiles/filedetails/?id=125689526
-To change to Downtown you'd take "125689526" from the end of the link.
-Enter "rcon changelevel 125689526" into the console while connect to the server.
+To change to Downtown you'd take "125689526" from the end of the link like this... "rcon changelevel 125689526"
 ```
