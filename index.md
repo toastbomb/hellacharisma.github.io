@@ -1,54 +1,21 @@
 # [Click to connect]
 [Click to connect]: steam://connect/mlg.gamergod.net:28748/mlg
+### [level list]
+[level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
-# 10-Man Server Guide
- 
-- [How to connect](#how-to-connect)
-  * [Through console](#through-console)
-  * [Add to server browser favorites](#add-to-server-browser-favorites)
+## How do I change levels?
+-"rcon_password mlg" in console
+-"rcon changelvel <name of level you want>" in console
 
-## How to connect
-
-### Through browser
-
-- Paste "steam://connect/mlg.gamergod.net:28748/mlg" in your browser
-- Press "enter"
-
-### Through console
-
-- Open CSGO
-- Open the console (press "~")
-- Paste "connect mlg.gamergod.net:28748; password mlg" into the console text box
-- Press "enter"
-
-### Add to server browser favorites
-
-Markdown asdf is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## I don't know the name of the level
+-Go to the [level list] and go to the page for the level you want
+-Use the ending string of digits in the link as the level name
+Example:
+```
+This is the link for Downtown https://steamcommunity.com/sharedfiles/filedetails/?id=125689526
+To change to Downtown I'd take "125689526" from the end of the link.
+Enter "rcon changelevel 125689526" into the console while connect to the server.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hellacharisma/hellacharisma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How do I setup a 10 man?
+-Type "!setup" in chat
