@@ -1,8 +1,9 @@
 # [connect]
 [connect]: steam://connect/mlg.gamergod.net:28748/mlg
-[website]: steam://connect/mlg.gamergod.net:28748/mlg
 
-[website]
+
+
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 # 10-Man Server Guide
  
